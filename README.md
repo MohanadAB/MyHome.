@@ -1,2 +1,2 @@
-# MyHome Page.
-Project Home.
+# MyHome.
+Project MyHome Page.
